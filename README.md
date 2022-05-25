@@ -1,3 +1,9 @@
+# Text Classification
+Text Classification is one of the machine learning techniques which has been used :
+ - natural language processing
+ - sentiment analysis
+ -  spam & intent detection
+ -  searching
 # Best Datasets For TextCategorization
 
 These sets conains 4 marvelous datasets for text classification which have been used in vareity of machine learning approaches.
