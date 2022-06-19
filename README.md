@@ -7,7 +7,6 @@ Text Classification is one of the machine learning techniques which has been use
  -  Organizing text(stories, papers)
 
 
-
 ## Feature selection in Text Categorization
 Due to the high dimensionality of feature space.The performance of machine learning algorithms for the categorization of documents reduces. Feature selection is an important data preprocessing strategy.
 # Best Datasets For TextCategorization
