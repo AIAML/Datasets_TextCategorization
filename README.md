@@ -19,3 +19,5 @@ In order to test your approach in text classification yout these datsets. These 
  - Reuter21578
  - RCV1_4
  - TDT2
+
+All of datasets are can be used in Matlab application
