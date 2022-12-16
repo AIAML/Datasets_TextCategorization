@@ -20,4 +20,4 @@ In order to test your approach in text classification yout these datsets. These 
  - RCV1_4
  - TDT2
 
-All of datasets are can be used in Matlab application. You can open them easily in your workspace.
+All of datasets are can be used in Matlab application. You can open them easily in your workspace. Datasets are in 2-dimensional array which can be easily used by your algorithm.
